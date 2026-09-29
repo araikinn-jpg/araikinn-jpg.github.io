@@ -1,1 +1,1 @@
-# araikinn.github.io
+# araikinn-jpg.github.io
