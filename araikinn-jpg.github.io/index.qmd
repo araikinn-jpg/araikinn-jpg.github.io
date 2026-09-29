@@ -2,6 +2,23 @@
 title: "Arailym Duisengali"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Hi, I'm Arailym 👋
+
+I'm a Master's student in Applied Business Analytics at Boston University.
+!(/Users/arailymduisengali/GitHub rep/araikinn-jpg.github.io/araikinn-jpg.github.io/images/IMG_1301.HEIC)
+## About Me
+
+...
+
+## Projects
+
+...
+
+## Skills
+
+...
+
+## Contact
+
+...
