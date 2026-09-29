@@ -1,1 +1,0 @@
-# araikinn.github.io
