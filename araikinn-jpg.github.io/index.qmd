@@ -1,24 +1,93 @@
----
 title: "Arailym Duisengali"
----
-
+subtitle: "Applied Business Analytics"
+about:
+template: jolla
+image: images/IMG_1301.jpg
+image-shape: round
+links:
+- icon: github
+href: https://github.com/araikinn-jpg
+- icon: linkedin
+href: https://www.linkedin.com/in/arailym-duisengali-b28055252/
+-------------------------------
 
 # Hi, I'm Arailym 👋
 
-I'm a Master's student in Applied Business Analytics at Boston University.
-!(/Users/arailymduisengali/GitHub rep/araikinn-jpg.github.io/araikinn-jpg.github.io/images/IMG_1301.HEIC)
+I'm a Master's student in **Applied Business Analytics at Boston University**, interested in using data to understand business problems and support better decisions.
+
 ## About Me
 
-...
+I have a background in **Mathematical and Computer Modeling** and am currently pursuing my Master's degree in Applied Business Analytics at Boston University.
+
+My experience combines **data analysis, project management, and technology**. Before graduate school, I worked on projects involving cross-functional teams, process improvement, and digital solutions. These experiences helped me develop an interest in how data can be transformed into practical insights for businesses.
+
+Through my graduate studies, I am developing my skills in **Python, SQL, data visualization, statistical analysis, and business analytics**. I enjoy working with real-world datasets, identifying patterns, and communicating results in a clear and practical way.
+
+Outside of academics, I enjoy **exploring Boston, traveling, discovering new places, and learning new tools and technologies**.
 
 ## Projects
 
-...
+### Business Analytics & Data Analysis
+
+I work with real-world datasets to explore patterns, relationships, and trends using Python and data analysis techniques.
+
+### Marketing Analysis
+
+I apply analytical methods and business frameworks to understand customers, markets, and business performance.
+
+### Decision Making
+
+I use quantitative and strategic approaches to analyze business problems and evaluate potential solutions.
+
+### Data Visualization
+
+I create visualizations that make analytical findings easier to understand and communicate to a broader audience.
+
+More projects and analyses will be added as I continue building my portfolio.
 
 ## Skills
 
-...
+### Programming & Data
+
+* Python
+* Pandas
+* SQL
+* R
+
+### Data Visualization
+
+* Tableau
+* Power BI
+* Matplotlib
+
+### Business & Analytics
+
+* Business Analytics
+* Data Analysis
+* Data-Driven Decision Making
+* Marketing Analysis
+* Statistical Analysis
+* Process Improvement
+
+### Project Management
+
+* Project Management
+* Cross-functional Collaboration
+* Requirements Analysis
+* Process Documentation
+
+### Tools
+
+* Git & GitHub
+* Jupyter
+* Quarto
+* Notion
+* Trello
 
 ## Contact
 
-...
+I'm always interested in connecting with people working in **analytics, technology, and business**.
+
+* **GitHub:** [araikinn-jpg](https://github.com/araikinn-jpg)
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/arailym-duisengali-b28055252/)
+* **Email:** [araikinn@bu.edu](mailto:araikinn@bu.edu)
