@@ -1,18 +1,20 @@
 ---
 title: "Arailym Duisengali"
 subtitle: "Applied Business Analytics"
-about:
-  template: jolla
-  image: images/IMG_1301.jpg
-  image-shape: round
-  links:
-    - icon: github
-      href: https://github.com/araikinn-jpg
-    - icon: linkedin
-      href: https://www.linkedin.com/in/arailym-duisengali-b280555252/
+format:
+  html:
+    css: styles.css
+    toc: true
+    toc-location: right
+navbar:
+  left:
+    - text: "Home"
+      href: index.qmd
+    - text: "About"
+      href: about.qmd
 ---
 # Hi, I'm Arailym 👋
-
+![](images/8C4D86EB-F44F-4D63-A253-0F525C95C8AA.jpeg){width=250}
 I'm a Master's student in **Applied Business Analytics at Boston University**, interested in using data to understand business problems and support better decisions.
 
 ## About Me
