@@ -331,3 +331,50 @@ main.content .hero-photo {
   }
 }
 
+/* About page layout */
+.about-hero {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 40px;
+  align-items: center;
+  margin: 30px 0 50px;
+}
+
+.about-hero img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 18px;
+  display: block;
+}
+
+.about-section {
+  margin: 40px 0;
+}
+
+.beyond-section {
+  background: #f7f1e9;
+  padding: 28px;
+  border-radius: 18px;
+  margin: 35px 0;
+}
+
+.about-hero h1,
+.about-section h2,
+.beyond-section h2 {
+  color: #594536;
+}
+
+a {
+  color: #8b684f;
+}
+
+@media (max-width: 700px) {
+  .about-hero {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .about-hero img {
+    max-width: 100%;
+  }
+}
