@@ -1,0 +1,10 @@
+---
+title: "Test"
+format: html
+---
+
+# Markdown works
+
+This is a normal paragraph.
+
+![A test image](images/1314.jpeg)

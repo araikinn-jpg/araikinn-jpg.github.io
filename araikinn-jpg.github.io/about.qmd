@@ -1,5 +1,122 @@
+
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+<div class="about-hero">
+  <div class="about-intro">
+    <p class="eyebrow">A LITTLE ABOUT ME</p>
+    <h1>Hi, I'm Arailym.</h1>
+    <p>
+      I'm a Master's student in Applied Business Analytics at Boston
+      University with a background in project management and a growing
+      focus on data-driven decision-making.
+    </p>
+    <p>
+      I enjoy connecting analytical methods with real business questions,
+      turning complex information into clear insights and practical
+      recommendations.
+    </p>
+  </div>
+
+  <div class="about-hero-image">
+    <img src="images/about-me.jpg" alt="Arailym in a professional setting">
+  </div>
+</div>
+
+<section class="about-section">
+  <p class="eyebrow">01 — BACKGROUND</p>
+  <h2>Professional Background</h2>
+
+  Before my master's, I worked in project management, coordinating teams,
+  managing documentation, and supporting process improvements. These
+  experiences shaped my interest in how data and strategy come together
+  to create meaningful business outcomes.
+
+  <div class="about-highlights">
+    <div>
+      <h3>Experience</h3>
+      <p>Project management and team coordination</p>
+    </div>
+    <div>
+      <h3>Education</h3>
+      <p>M.S. in Applied Business Analytics, Boston University</p>
+    </div>
+    <div>
+      <h3>Focus</h3>
+      <p>Data analysis and informed decision-making</p>
+    </div>
+  </div>
+</section>
+
+<section class="about-section approach-section">
+  <p class="eyebrow">02 — MY APPROACH</p>
+  <h2>How I Approach Problems</h2>
+
+  I enjoy breaking down complex problems, identifying patterns in data,
+  and turning findings into clear, actionable recommendations. I value
+  structured thinking, attention to detail, and effective communication
+  because good analysis is not just about the numbers, but about the
+  decisions they help inform.
+
+  <div class="interest-tags">
+    <span>Problem solving</span>
+    <span>Data analysis</span>
+    <span>Visualization</span>
+    <span>Business strategy</span>
+  </div>
+</section>
+
+<section class="about-section beyond-section">
+  <div class="beyond-text">
+    <p class="eyebrow">03 — BEYOND THE NUMBERS</p>
+    <h2>Beyond the Numbers</h2>
+
+    <p>
+      Outside of analytics, I'm drawn to travel, cities, and culture.
+      Exploring new places gives me fresh perspectives and deepens my
+      curiosity about people, behavior, and how businesses adapt to
+      different environments.
+    </p>
+
+    <p>
+      I also appreciate the little things: a new café, interesting
+      architecture, and the everyday moments that make a place memorable.
+    </p>
+
+    <div class="interest-tags">
+      <span>Travel & new cities</span>
+      <span>People & culture</span>
+      <span>Everyday moments</span>
+    </div>
+
+    <a class="instagram-link"
+       href="https://www.instagram.com/YOUR_USERNAME/"
+       target="_blank"
+       rel="noopener noreferrer">
+      Let's connect on Instagram ↗
+    </a>
+  </div>
+
+  <div class="photo-collage">
+    <img src="images/travel-1.jpg" alt="A city I explored">
+    <img src="images/travel-2.jpg" alt="A café I discovered">
+    <img src="images/travel-3.jpg" alt="A memorable travel view">
+  </div>
+</section>
+
+<section class="about-section next-section">
+  <p class="eyebrow">04 — LOOKING AHEAD</p>
+  <h2>What I'm Exploring Next</h2>
+
+  I'm continuing to develop my skills in data analysis, visualization,
+  and business intelligence, with the goal of contributing to projects
+  where analytical thinking and business strategy meet.
+
+  <div class="interest-tags">
+    <span>Business performance</span>
+    <span>Marketing analytics</span>
+    <span>Customer insights</span>
+    <span>Data-informed strategy</span>
+  </div>
+</section>

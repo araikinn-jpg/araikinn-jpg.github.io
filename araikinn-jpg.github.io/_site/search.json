@@ -1,44 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Arailym Duisengali",
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "Test",
     "section": "",
-    "text": "I’m a Master’s student in Applied Business Analytics at Boston University, interested in using data to understand business problems and support better decisions.\n\n\nI have a background in Mathematical and Computer Modeling and am currently pursuing my Master’s degree in Applied Business Analytics at Boston University.\nMy experience combines data analysis, project management, and technology. Before graduate school, I worked on projects involving cross-functional teams, process improvement, and digital solutions. These experiences helped me develop an interest in how data can be transformed into practical insights for businesses.\nThrough my graduate studies, I am developing my skills in Python, SQL, data visualization, statistical analysis, and business analytics. I enjoy working with real-world datasets, identifying patterns, and communicating results in a clear and practical way.\nOutside of academics, I enjoy exploring Boston, traveling, discovering new places, and learning new tools and technologies.\n\n\n\n\n\nI work with real-world datasets to explore patterns, relationships, and trends using Python and data analysis techniques.\n\n\n\nI apply analytical methods and business frameworks to understand customers, markets, and business performance.\n\n\n\nI use quantitative and strategic approaches to analyze business problems and evaluate potential solutions.\n\n\n\nI create visualizations that make analytical findings easier to understand and communicate to a broader audience.\nMore projects and analyses will be added as I continue building my portfolio.\n\n\n\n\n\n\n\nPython\nPandas\nSQL\nR\n\n\n\n\n\nTableau\nPower BI\nMatplotlib\n\n\n\n\n\nBusiness Analytics\nData Analysis\nData-Driven Decision Making\nMarketing Analysis\nStatistical Analysis\nProcess Improvement\n\n\n\n\n\nProject Management\nCross-functional Collaboration\nRequirements Analysis\nProcess Documentation\n\n\n\n\n\nGit & GitHub\nJupyter\nQuarto\nNotion\nTrello\n\n\n\n\n\nI’m always interested in connecting with people working in analytics, technology, and business.\n\nGitHub: araikinn-jpg\nLinkedIn: LinkedIn\nEmail: araikinn@bu.edu"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Arailym Duisengali",
-    "section": "",
-    "text": "I have a background in Mathematical and Computer Modeling and am currently pursuing my Master’s degree in Applied Business Analytics at Boston University.\nMy experience combines data analysis, project management, and technology. Before graduate school, I worked on projects involving cross-functional teams, process improvement, and digital solutions. These experiences helped me develop an interest in how data can be transformed into practical insights for businesses.\nThrough my graduate studies, I am developing my skills in Python, SQL, data visualization, statistical analysis, and business analytics. I enjoy working with real-world datasets, identifying patterns, and communicating results in a clear and practical way.\nOutside of academics, I enjoy exploring Boston, traveling, discovering new places, and learning new tools and technologies."
-  },
-  {
-    "objectID": "index.html#projects",
-    "href": "index.html#projects",
-    "title": "Arailym Duisengali",
-    "section": "",
-    "text": "I work with real-world datasets to explore patterns, relationships, and trends using Python and data analysis techniques.\n\n\n\nI apply analytical methods and business frameworks to understand customers, markets, and business performance.\n\n\n\nI use quantitative and strategic approaches to analyze business problems and evaluate potential solutions.\n\n\n\nI create visualizations that make analytical findings easier to understand and communicate to a broader audience.\nMore projects and analyses will be added as I continue building my portfolio."
-  },
-  {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "Arailym Duisengali",
-    "section": "",
-    "text": "Python\nPandas\nSQL\nR\n\n\n\n\n\nTableau\nPower BI\nMatplotlib\n\n\n\n\n\nBusiness Analytics\nData Analysis\nData-Driven Decision Making\nMarketing Analysis\nStatistical Analysis\nProcess Improvement\n\n\n\n\n\nProject Management\nCross-functional Collaboration\nRequirements Analysis\nProcess Documentation\n\n\n\n\n\nGit & GitHub\nJupyter\nQuarto\nNotion\nTrello"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Arailym Duisengali",
-    "section": "",
-    "text": "I’m always interested in connecting with people working in analytics, technology, and business.\n\nGitHub: araikinn-jpg\nLinkedIn: LinkedIn\nEmail: araikinn@bu.edu"
+    "text": "Markdown works\nThis is a normal paragraph.\n\n\n\nA test image"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "&lt;p class=\"eyebrow\"&gt;A LITTLE ABOUT ME&lt;/p&gt;\n&lt;h1&gt;Hi, I'm Arailym.&lt;/h1&gt;\n&lt;p&gt;\n  I'm a Master's student in Applied Business Analytics at Boston\n  University with a background in project management and a growing\n  focus on data-driven decision-making.\n&lt;/p&gt;\n&lt;p&gt;\n  I enjoy connecting analytical methods with real business questions,\n  turning complex information into clear insights and practical\n  recommendations.\n&lt;/p&gt;\n\n\n&lt;img src=\"images/about-me.jpg\" alt=\"Arailym in a professional setting\"&gt;\n\n\n\n\n01 — BACKGROUND\n\n\nProfessional Background\n\nBefore my master’s, I worked in project management, coordinating teams, managing documentation, and supporting process improvements. These experiences shaped my interest in how data and strategy come together to create meaningful business outcomes.\n\n&lt;div&gt;\n  &lt;h3&gt;Experience&lt;/h3&gt;\n  &lt;p&gt;Project management and team coordination&lt;/p&gt;\n&lt;/div&gt;\n&lt;div&gt;\n  &lt;h3&gt;Education&lt;/h3&gt;\n  &lt;p&gt;M.S. in Applied Business Analytics, Boston University&lt;/p&gt;\n&lt;/div&gt;\n&lt;div&gt;\n  &lt;h3&gt;Focus&lt;/h3&gt;\n  &lt;p&gt;Data analysis and informed decision-making&lt;/p&gt;\n&lt;/div&gt;\n\n\n\n\n02 — MY APPROACH\n\n\nHow I Approach Problems\n\nI enjoy breaking down complex problems, identifying patterns in data, and turning findings into clear, actionable recommendations. I value structured thinking, attention to detail, and effective communication because good analysis is not just about the numbers, but about the decisions they help inform.\n\n&lt;span&gt;Problem solving&lt;/span&gt;\n&lt;span&gt;Data analysis&lt;/span&gt;\n&lt;span&gt;Visualization&lt;/span&gt;\n&lt;span&gt;Business strategy&lt;/span&gt;\n\n\n\n\n&lt;p class=\"eyebrow\"&gt;03 — BEYOND THE NUMBERS&lt;/p&gt;\n&lt;h2&gt;Beyond the Numbers&lt;/h2&gt;\n\n&lt;p&gt;\n  Outside of analytics, I'm drawn to travel, cities, and culture.\n  Exploring new places gives me fresh perspectives and deepens my\n  curiosity about people, behavior, and how businesses adapt to\n  different environments.\n&lt;/p&gt;\n\n&lt;p&gt;\n  I also appreciate the little things: a new café, interesting\n  architecture, and the everyday moments that make a place memorable.\n&lt;/p&gt;\n\n&lt;div class=\"interest-tags\"&gt;\n  &lt;span&gt;Travel & new cities&lt;/span&gt;\n  &lt;span&gt;People & culture&lt;/span&gt;\n  &lt;span&gt;Everyday moments&lt;/span&gt;\n&lt;/div&gt;\n\n&lt;a class=\"instagram-link\"\n   href=\"https://www.instagram.com/YOUR_USERNAME/\"\n   target=\"_blank\"\n   rel=\"noopener noreferrer\"&gt;\n  Let's connect on Instagram ↗\n&lt;/a&gt;\n\n\n&lt;img src=\"images/travel-1.jpg\" alt=\"A city I explored\"&gt;\n&lt;img src=\"images/travel-2.jpg\" alt=\"A café I discovered\"&gt;\n&lt;img src=\"images/travel-3.jpg\" alt=\"A memorable travel view\"&gt;\n\n\n\n\n04 — LOOKING AHEAD\n\n\nWhat I’m Exploring Next\n\nI’m continuing to develop my skills in data analysis, visualization, and business intelligence, with the goal of contributing to projects where analytical thinking and business strategy meet.\n\n&lt;span&gt;Business performance&lt;/span&gt;\n&lt;span&gt;Marketing analytics&lt;/span&gt;\n&lt;span&gt;Customer insights&lt;/span&gt;\n&lt;span&gt;Data-informed strategy&lt;/span&gt;"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Arailym Duisengali",
+    "section": "",
+    "text": "****\n\n\n\nBOSTON, MA   /   BUSINESS ANALYTICS\n\nHi, I’m Arailym.\n\nI’m a Master’s student in Applied Business Analytics at Boston University.\nI’m interested in turning data into meaningful insights and helping businesses make better decisions.\n\n\nLinkedIn   /   GitHub   /   Email"
   }
 ]

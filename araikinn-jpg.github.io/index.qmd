@@ -1,95 +1,41 @@
 ---
 title: "Arailym Duisengali"
-subtitle: "Applied Business Analytics"
-format:
-  html:
-    css: styles.css
-    toc: true
-    toc-location: right
-navbar:
-  left:
-    - text: "Home"
-      href: index.qmd
-    - text: "About"
-      href: about.qmd
+page-layout: full
 ---
-# Hi, I'm Arailym 👋
-![](images/8C4D86EB-F44F-4D63-A253-0F525C95C8AA.jpeg){width=250}
-I'm a Master's student in **Applied Business Analytics at Boston University**, interested in using data to understand business problems and support better decisions.
 
-## About Me
+---
+title: "Arailym Duisengali"
+page-layout: full
+---
 
-I have a background in **Mathematical and Computer Modeling** and am currently pursuing my Master's degree in Applied Business Analytics at Boston University.
+::: {.columns .hero-container}
 
-My experience combines **data analysis, project management, and technology**. Before graduate school, I worked on projects involving cross-functional teams, process improvement, and digital solutions. These experiences helped me develop an interest in how data can be transformed into practical insights for businesses.
+::: {.column width="48%"}
 
-Through my graduate studies, I am developing my skills in **Python, SQL, data visualization, statistical analysis, and business analytics**. I enjoy working with real-world datasets, identifying patterns, and communicating results in a clear and practical way.
+![****](images/1314.jpeg){.hero-photo}
 
-Outside of academics, I enjoy **exploring Boston, traveling, discovering new places, and learning new tools and technologies**.
+:::
 
-## Projects
+::: {.column width="52%" .hero-content}
 
-### Business Analytics & Data Analysis
+<span class="eyebrow">BOSTON, MA &nbsp; / &nbsp; BUSINESS ANALYTICS</span>
 
-I work with real-world datasets to explore patterns, relationships, and trends using Python and data analysis techniques.
+# Hi, I’m Arailym.
 
-### Marketing Analysis
+<div class="hero-description">
 
-I apply analytical methods and business frameworks to understand customers, markets, and business performance.
+I’m a Master’s student in Applied Business Analytics at Boston University.
 
-### Decision Making
+I’m interested in turning data into meaningful insights and helping businesses make better decisions.
 
-I use quantitative and strategic approaches to analyze business problems and evaluate potential solutions.
+</div>
 
-### Data Visualization
+<div class="social-links">
 
-I create visualizations that make analytical findings easier to understand and communicate to a broader audience.
+[LinkedIn](https://www.linkedin.com/in/arailym-duisengali-b28055252/) &nbsp; / &nbsp; [GitHub](https://github.com/araikinn-jpg) &nbsp; / &nbsp; [Email](mailto:araikinn@bu.edu)
 
-More projects and analyses will be added as I continue building my portfolio.
+</div>
 
-## Skills
+:::
 
-### Programming & Data
-
-* Python
-* Pandas
-* SQL
-* R
-
-### Data Visualization
-
-* Tableau
-* Power BI
-* Matplotlib
-
-### Business & Analytics
-
-* Business Analytics
-* Data Analysis
-* Data-Driven Decision Making
-* Marketing Analysis
-* Statistical Analysis
-* Process Improvement
-
-### Project Management
-
-* Project Management
-* Cross-functional Collaboration
-* Requirements Analysis
-* Process Documentation
-
-### Tools
-
-* Git & GitHub
-* Jupyter
-* Quarto
-* Notion
-* Trello
-
-## Contact
-
-I'm always interested in connecting with people working in **analytics, technology, and business**.
-
-* **GitHub:** [araikinn-jpg](https://github.com/araikinn-jpg)
-* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/arailym-duisengali-b28055252/)
-* **Email:** [araikinn@bu.edu](mailto:araikinn@bu.edu)
+:::
