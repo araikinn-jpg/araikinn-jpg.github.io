@@ -1,122 +1,287 @@
 
 ---
 title: "About Me"
+page-layout: full
 ---
 
-<div class="about-hero">
-  <div class="about-intro">
-    <p class="eyebrow">A LITTLE ABOUT ME</p>
-    <h1>Hi, I'm Arailym.</h1>
-    <p>
-      I'm a Master's student in Applied Business Analytics at Boston
-      University with a background in project management and a growing
-      focus on data-driven decision-making.
-    </p>
-    <p>
-      I enjoy connecting analytical methods with real business questions,
-      turning complex information into clear insights and practical
-      recommendations.
-    </p>
-  </div>
+::: {.about-hero}
 
-  <div class="about-hero-image">
-    <img src="images/about-me.jpg" alt="Arailym in a professional setting">
-  </div>
+:::: {.columns .hero-layout}
+
+::: {.column width="48%"}
+
+<p class="eyebrow">A LITTLE ABOUT ME</p>
+
+# Hi, I'm Arailym.
+
+I'm a Master's student in Applied Business Analytics at Boston University with a background in project management and a growing focus on data-driven decision-making.
+
+I'm passionate about using analytics to understand business performance, uncover insights, and help organizations make smarter decisions.
+
+:::
+
+::: {.column width="52%"}
+
+![](images/about-me.jpg){.hero-photo}
+
+:::
+
+::::
+
+:::
+
+::: {.about-section .background-section}
+
+:::: {.columns .background-layout}
+
+::: {.column width="30%"}
+
+![](images/5281.jpeg){.background-photo}
+
+:::
+
+::: {.column width="70%"}
+
+<p class="eyebrow">01 — BACKGROUND</p>
+
+## Professional Background
+
+Currently, I'm pursuing my master's in Applied Business Analytics at Boston University. Previously, I worked in project management at SDU University in Kazakhstan, coordinating teams, managing documentation, and supporting process improvements. These experiences shaped my interest in how data and strategy come together to create meaningful business outcomes.
+
+::::: {.columns .about-highlights}
+
+::: {.column width="33%"}
+
+::: {.highlight-card}
+
+<span class="card-icon">↗</span>
+
+**Experience**
+
+Project coordination, team collaboration, documentation management, and process improvement.
+
+:::
+
+:::
+
+::: {.column width="33%"}
+
+::: {.highlight-card}
+
+<span class="card-icon">◇</span>
+
+**Education**
+
+M.S. in Applied Business Analytics at Boston University.
+
+B.S. in Mathematical and Computer Modeling at SDU University, Kazakhstan.
+
+:::
+
+:::
+
+::: {.column width="33%"}
+
+::: {.highlight-card}
+
+<span class="card-icon">◎</span>
+
+**Focus**
+
+Data analysis, visualization, and informed decision-making.
+
+:::
+
+:::
+
+:::::
+
+:::
+
+::::
+
+:::
+
+::: {.about-section .approach-section}
+
+:::: {.columns .approach-layout}
+
+::: {.column width="48%"}
+
+<p class="eyebrow">02 — MY APPROACH</p>
+
+## Turning Questions Into Insights
+
+What interests me most about analytics is the connection between numbers and real business questions. I enjoy exploring a problem, identifying patterns, and figuring out what the results can tell us.
+
+For me, analysis becomes valuable when it explains what is happening, why it matters, and what could be done next.
+
+My project management experience has shaped how I approach analytical work. I value structure, attention to detail, and clear communication while keeping the bigger business objective in mind.
+
+:::
+
+::: {.column width="52%"}
+
+:::: {.columns .approach-visual}
+
+
+
+::: {.column width="62%"}
+
+<div class="approach-points">
+
+**↗** Problem solving
+
+**⌁** Data analysis
+
+**◇** Clear communication
+
+**☆** Practical recommendations
+
 </div>
 
-<section class="about-section">
-  <p class="eyebrow">01 — BACKGROUND</p>
-  <h2>Professional Background</h2>
+:::
 
-  Before my master's, I worked in project management, coordinating teams,
-  managing documentation, and supporting process improvements. These
-  experiences shaped my interest in how data and strategy come together
-  to create meaningful business outcomes.
+::::
 
-  <div class="about-highlights">
-    <div>
-      <h3>Experience</h3>
-      <p>Project management and team coordination</p>
-    </div>
-    <div>
-      <h3>Education</h3>
-      <p>M.S. in Applied Business Analytics, Boston University</p>
-    </div>
-    <div>
-      <h3>Focus</h3>
-      <p>Data analysis and informed decision-making</p>
-    </div>
-  </div>
-</section>
+:::
 
-<section class="about-section approach-section">
-  <p class="eyebrow">02 — MY APPROACH</p>
-  <h2>How I Approach Problems</h2>
+::::
 
-  I enjoy breaking down complex problems, identifying patterns in data,
-  and turning findings into clear, actionable recommendations. I value
-  structured thinking, attention to detail, and effective communication
-  because good analysis is not just about the numbers, but about the
-  decisions they help inform.
+:::
 
-  <div class="interest-tags">
-    <span>Problem solving</span>
-    <span>Data analysis</span>
-    <span>Visualization</span>
-    <span>Business strategy</span>
-  </div>
-</section>
+::: {.about-section .beyond-section}
 
-<section class="about-section beyond-section">
-  <div class="beyond-text">
-    <p class="eyebrow">03 — BEYOND THE NUMBERS</p>
-    <h2>Beyond the Numbers</h2>
+:::: {.columns .beyond-layout}
 
-    <p>
-      Outside of analytics, I'm drawn to travel, cities, and culture.
-      Exploring new places gives me fresh perspectives and deepens my
-      curiosity about people, behavior, and how businesses adapt to
-      different environments.
-    </p>
+::: {.column width="30%"}
 
-    <p>
-      I also appreciate the little things: a new café, interesting
-      architecture, and the everyday moments that make a place memorable.
-    </p>
+::: {.photo-collage}
 
-    <div class="interest-tags">
-      <span>Travel & new cities</span>
-      <span>People & culture</span>
-      <span>Everyday moments</span>
-    </div>
+![](images/travel-1.jpg){.travel-photo .travel-photo-one}
 
-    <a class="instagram-link"
-       href="https://www.instagram.com/YOUR_USERNAME/"
-       target="_blank"
-       rel="noopener noreferrer">
-      Let's connect on Instagram ↗
-    </a>
-  </div>
+![](images/travel-2.jpg){.travel-photo .travel-photo-two}
 
-  <div class="photo-collage">
-    <img src="images/travel-1.jpg" alt="A city I explored">
-    <img src="images/travel-2.jpg" alt="A café I discovered">
-    <img src="images/travel-3.jpg" alt="A memorable travel view">
-  </div>
-</section>
+![](images/travel-3.jpg){.travel-photo .travel-photo-three}
 
-<section class="about-section next-section">
-  <p class="eyebrow">04 — LOOKING AHEAD</p>
-  <h2>What I'm Exploring Next</h2>
+:::
 
-  I'm continuing to develop my skills in data analysis, visualization,
-  and business intelligence, with the goal of contributing to projects
-  where analytical thinking and business strategy meet.
+:::
 
-  <div class="interest-tags">
-    <span>Business performance</span>
-    <span>Marketing analytics</span>
-    <span>Customer insights</span>
-    <span>Data-informed strategy</span>
-  </div>
-</section>
+::: {.column width="48%"}
+
+<p class="eyebrow">03 — BEYOND THE NUMBERS</p>
+
+## Curious About the World, Too
+
+My curiosity extends beyond data and business. I love exploring new cities, discovering local cafés, noticing interesting architecture, and experiencing different cultures. Traveling gives me a chance to step outside my usual routine and see familiar things from a different perspective.
+
+My curiosity about the world has helped broaden my horizons and inspired my journey into international education and career development.
+
+::: {.interest-tags}
+
+- Travel & new cities
+- People & culture
+- Cafés & architecture
+
+:::
+
+:::
+
+::: {.column width="22%"}
+
+<div class="instagram-panel">
+
+<p class="eyebrow">A LITTLE MORE PERSONAL</p>
+
+### Let's connect
+
+Find me on Instagram for travel, city discoveries, and everyday moments.
+
+[Instagram ↗](https://www.instagram.com/d.arai.b/){.instagram-link target="_blank"}
+
+</div>
+
+:::
+
+::::
+
+:::
+
+::: {.about-section .next-section}
+
+<p class="eyebrow">04 — LOOKING AHEAD</p>
+
+:::: {.columns .future-layout}
+
+::: {.column width="42%"}
+
+## What I'm Exploring Next
+
+I'm continuing to build my skills in Python, SQL, data visualization, and business intelligence while applying analytical methods to real business problems.
+
+I want to bring together my project coordination experience and analytical training to contribute to projects where data and business strategy meet.
+
+:::
+
+::: {.column width="58%"}
+
+<p class="future-label">AREAS I'M INTERESTED IN</p>
+
+:::: {.columns .future-grid}
+
+::: {.column width="50%"}
+
+::: {.future-card}
+
+**Business performance**
+
+Understanding the metrics and factors that influence business results.
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.future-card}
+
+**Marketing analytics**
+
+Exploring customer behavior, engagement, and patterns in marketing data.
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.future-card}
+
+**Data visualization**
+
+Making analytical results clear, accessible, and meaningful.
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.future-card}
+
+**Data-informed strategy**
+
+Connecting evidence and business objectives to practical recommendations.
+
+:::
+
+:::
+
+::::
+
+:::
+
+::::
+
+:::

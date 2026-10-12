@@ -12,7 +12,7 @@ page-layout: full
 
 ::: {.column width="48%"}
 
-![****](images/1314.jpeg){.hero-photo}
+![](images/1314.jpeg){.hero-photo}
 
 :::
 
@@ -31,6 +31,8 @@ I’m interested in turning data into meaningful insights and helping businesses
 </div>
 
 <div class="social-links">
+
+#### Lets connect!
 
 [LinkedIn](https://www.linkedin.com/in/arailym-duisengali-b28055252/) &nbsp; / &nbsp; [GitHub](https://github.com/araikinn-jpg) &nbsp; / &nbsp; [Email](mailto:araikinn@bu.edu)
 
