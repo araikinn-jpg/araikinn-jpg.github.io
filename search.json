@@ -11,13 +11,41 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "&lt;p class=\"eyebrow\"&gt;A LITTLE ABOUT ME&lt;/p&gt;\n&lt;h1&gt;Hi, I'm Arailym.&lt;/h1&gt;\n&lt;p&gt;\n  I'm a Master's student in Applied Business Analytics at Boston\n  University with a background in project management and a growing\n  focus on data-driven decision-making.\n&lt;/p&gt;\n&lt;p&gt;\n  I enjoy connecting analytical methods with real business questions,\n  turning complex information into clear insights and practical\n  recommendations.\n&lt;/p&gt;\n\n\n&lt;img src=\"images/about-me.jpg\" alt=\"Arailym in a professional setting\"&gt;\n\n\n\n\n01 — BACKGROUND\n\n\nProfessional Background\n\nBefore my master’s, I worked in project management, coordinating teams, managing documentation, and supporting process improvements. These experiences shaped my interest in how data and strategy come together to create meaningful business outcomes.\n\n&lt;div&gt;\n  &lt;h3&gt;Experience&lt;/h3&gt;\n  &lt;p&gt;Project management and team coordination&lt;/p&gt;\n&lt;/div&gt;\n&lt;div&gt;\n  &lt;h3&gt;Education&lt;/h3&gt;\n  &lt;p&gt;M.S. in Applied Business Analytics, Boston University&lt;/p&gt;\n&lt;/div&gt;\n&lt;div&gt;\n  &lt;h3&gt;Focus&lt;/h3&gt;\n  &lt;p&gt;Data analysis and informed decision-making&lt;/p&gt;\n&lt;/div&gt;\n\n\n\n\n02 — MY APPROACH\n\n\nHow I Approach Problems\n\nI enjoy breaking down complex problems, identifying patterns in data, and turning findings into clear, actionable recommendations. I value structured thinking, attention to detail, and effective communication because good analysis is not just about the numbers, but about the decisions they help inform.\n\n&lt;span&gt;Problem solving&lt;/span&gt;\n&lt;span&gt;Data analysis&lt;/span&gt;\n&lt;span&gt;Visualization&lt;/span&gt;\n&lt;span&gt;Business strategy&lt;/span&gt;\n\n\n\n\n&lt;p class=\"eyebrow\"&gt;03 — BEYOND THE NUMBERS&lt;/p&gt;\n&lt;h2&gt;Beyond the Numbers&lt;/h2&gt;\n\n&lt;p&gt;\n  Outside of analytics, I'm drawn to travel, cities, and culture.\n  Exploring new places gives me fresh perspectives and deepens my\n  curiosity about people, behavior, and how businesses adapt to\n  different environments.\n&lt;/p&gt;\n\n&lt;p&gt;\n  I also appreciate the little things: a new café, interesting\n  architecture, and the everyday moments that make a place memorable.\n&lt;/p&gt;\n\n&lt;div class=\"interest-tags\"&gt;\n  &lt;span&gt;Travel & new cities&lt;/span&gt;\n  &lt;span&gt;People & culture&lt;/span&gt;\n  &lt;span&gt;Everyday moments&lt;/span&gt;\n&lt;/div&gt;\n\n&lt;a class=\"instagram-link\"\n   href=\"https://www.instagram.com/YOUR_USERNAME/\"\n   target=\"_blank\"\n   rel=\"noopener noreferrer\"&gt;\n  Let's connect on Instagram ↗\n&lt;/a&gt;\n\n\n&lt;img src=\"images/travel-1.jpg\" alt=\"A city I explored\"&gt;\n&lt;img src=\"images/travel-2.jpg\" alt=\"A café I discovered\"&gt;\n&lt;img src=\"images/travel-3.jpg\" alt=\"A memorable travel view\"&gt;\n\n\n\n\n04 — LOOKING AHEAD\n\n\nWhat I’m Exploring Next\n\nI’m continuing to develop my skills in data analysis, visualization, and business intelligence, with the goal of contributing to projects where analytical thinking and business strategy meet.\n\n&lt;span&gt;Business performance&lt;/span&gt;\n&lt;span&gt;Marketing analytics&lt;/span&gt;\n&lt;span&gt;Customer insights&lt;/span&gt;\n&lt;span&gt;Data-informed strategy&lt;/span&gt;"
+    "text": "A LITTLE ABOUT ME\n\n\n\nI’m a Master’s student in Applied Business Analytics at Boston University with a background in project management and a growing focus on data-driven decision-making.\nI’m passionate about using analytics to understand business performance, uncover insights, and help organizations make smarter decisions."
+  },
+  {
+    "objectID": "about.html#professional-background",
+    "href": "about.html#professional-background",
+    "title": "About Me",
+    "section": "Professional Background",
+    "text": "Professional Background\nCurrently, I’m pursuing my master’s in Applied Business Analytics at Boston University. Previously, I worked in project management at SDU University in Kazakhstan, coordinating teams, managing documentation, and supporting process improvements. These experiences shaped my interest in how data and strategy come together to create meaningful business outcomes.\n\n\n\n↗\nExperience\nProject coordination, team collaboration, documentation management, and process improvement.\n\n\n\n◇\nEducation\nM.S. in Applied Business Analytics at Boston University.\nB.S. in Mathematical and Computer Modeling at SDU University, Kazakhstan.\n\n\n\n◎\nFocus\nData analysis, visualization, and informed decision-making."
+  },
+  {
+    "objectID": "about.html#turning-questions-into-insights",
+    "href": "about.html#turning-questions-into-insights",
+    "title": "About Me",
+    "section": "Turning Questions Into Insights",
+    "text": "Turning Questions Into Insights\nWhat interests me most about analytics is the connection between numbers and real business questions. I enjoy exploring a problem, identifying patterns, and figuring out what the results can tell us.\nFor me, analysis becomes valuable when it explains what is happening, why it matters, and what could be done next.\nMy project management experience has shaped how I approach analytical work. I value structure, attention to detail, and clear communication while keeping the bigger business objective in mind."
+  },
+  {
+    "objectID": "about.html#curious-about-the-world-too",
+    "href": "about.html#curious-about-the-world-too",
+    "title": "About Me",
+    "section": "Curious About the World, Too",
+    "text": "Curious About the World, Too\nMy curiosity extends beyond data and business. I love exploring new cities, discovering local cafés, noticing interesting architecture, and experiencing different cultures. Traveling gives me a chance to step outside my usual routine and see familiar things from a different perspective.\nMy curiosity about the world has helped broaden my horizons and inspired my journey into international education and career development.\n\n\nTravel & new cities\nPeople & culture\nCafés & architecture"
+  },
+  {
+    "objectID": "about.html#what-im-exploring-next",
+    "href": "about.html#what-im-exploring-next",
+    "title": "About Me",
+    "section": "What I’m Exploring Next",
+    "text": "What I’m Exploring Next\nI’m continuing to build my skills in Python, SQL, data visualization, and business intelligence while applying analytical methods to real business problems.\nI want to bring together my project coordination experience and analytical training to contribute to projects where data and business strategy meet."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Arailym Duisengali",
     "section": "",
-    "text": "****\n\n\n\nBOSTON, MA   /   BUSINESS ANALYTICS\n\nHi, I’m Arailym.\n\nI’m a Master’s student in Applied Business Analytics at Boston University.\nI’m interested in turning data into meaningful insights and helping businesses make better decisions.\n\n\nLinkedIn   /   GitHub   /   Email"
+    "text": "BOSTON, MA   /   BUSINESS ANALYTICS\n\nHi, I’m Arailym.\n\nI’m a Master’s student in Applied Business Analytics at Boston University.\nI’m interested in turning data into meaningful insights and helping businesses make better decisions.\n\n\nLets connect!\nLinkedIn   /   GitHub   /   Email"
   }
 ]
