@@ -1,0 +1,218 @@
+
+---
+title: "About Me"
+page-layout: full
+---
+
+```{=html}
+<div class="about-new">
+
+
+
+  <!-- SECTION 02: MY JOURNEY -->
+
+  <section class="about-journey">
+
+    <div class="about-section-heading">
+      <span class="about-kicker">01 / THE STORY SO FAR</span>
+      <h2>My <em>journey.</em></h2>
+      <p>
+        Three chapters that have shaped the way
+        I think, learn, and work.
+      </p>
+    </div>
+
+    <div class="journey-list">
+
+      <div class="journey-item">
+        <div class="journey-number">01</div>
+
+        <div class="journey-content">
+          <span class="journey-location">ALMATY, KAZAKHSTAN</span>
+          <h3>The Foundation</h3>
+          <p>
+            I studied Mathematical and Computer Modeling
+            at SDU University, where I developed my
+            foundation in quantitative thinking,
+            technology, programming, and problem-solving.
+          </p>
+        </div>
+
+        <span class="journey-period">2020 — 2024</span>
+      </div>
+
+      <div class="journey-item">
+        <div class="journey-number">02</div>
+
+        <div class="journey-content">
+          <span class="journey-location">SDU UNIVERSITY</span>
+          <h3>Putting Ideas into Practice</h3>
+          <p>
+            Working in project management across the
+            Automation Department and TechnoPark gave
+            me the opportunity to work with teams,
+            support technology-driven projects,
+            and see how ideas develop into real outcomes.
+          </p>
+        </div>
+
+        <span class="journey-period">2024 — 2025</span>
+      </div>
+
+      <div class="journey-item">
+        <div class="journey-number">03</div>
+
+        <div class="journey-content">
+          <span class="journey-location">BOSTON, USA</span>
+          <h3>A New Chapter</h3>
+          <p>
+            At Boston University, I'm pursuing my
+            master's degree in Applied Business
+            Analytics, bringing together my technical
+            background with business strategy,
+            statistical modeling, and data-driven
+            decision-making.
+          </p>
+        </div>
+
+        <span class="journey-period">2025 — PRESENT</span>
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <!-- SECTION 03: HOW I THINK & WORK -->
+
+  <section class="about-approach">
+
+    <div class="about-section-heading">
+      <span class="about-kicker">02 / MY APPROACH</span>
+      <h2>How I <em>think & work.</em></h2>
+
+      <p>
+        Beyond tools and technical skills,
+        these are the principles I try to bring
+        into every project.
+      </p>
+    </div>
+
+    <div class="approach-cards">
+
+      <div class="approach-card">
+        <span class="approach-number">01</span>
+
+        <h3>Think analytically.</h3>
+
+        <p>
+          Understand the problem before choosing
+          the tools. Ask questions, explore the
+          evidence, and look for what really matters.
+        </p>
+      </div>
+
+      <div class="approach-card">
+        <span class="approach-number">02</span>
+
+        <h3>Connect the dots.</h3>
+
+        <p>
+          Bring together technical insights,
+          people, and business goals. I believe
+          the most useful solutions often come
+          from connecting different perspectives.
+        </p>
+      </div>
+
+      <div class="approach-card">
+        <span class="approach-number">03</span>
+
+        <h3>Make it useful.</h3>
+
+        <p>
+          Turn findings into something people
+          can actually act on. Good analysis
+          should help make decisions clearer
+          and outcomes better.
+        </p>
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <!-- SECTION 04: BEYOND THE NUMBERS -->
+
+  <section class="about-beyond">
+
+    <div class="beyond-heading">
+      <div>
+        <span class="about-kicker">03 / THE PERSONAL SIDE</span>
+        <h2>Beyond the <em>numbers.</em></h2>
+      </div>
+
+      <p>
+        There's more to life than datasets,
+        deadlines, and project plans.
+        I enjoy discovering new places,
+        collecting memories, and finding
+        inspiration in everyday experiences.
+      </p>
+    </div>
+
+    <div class="beyond-gallery">
+
+      <figure class="beyond-photo">
+        <img src="images/about-life-1.jpg"
+             alt="A personal moment">
+        <figcaption>PLACES & PERSPECTIVES</figcaption>
+      </figure>
+
+      <figure class="beyond-photo">
+        <img src="images/about-life-2.jpg"
+             alt="Travel and exploration">
+        <figcaption>LITTLE ADVENTURES</figcaption>
+      </figure>
+
+      <figure class="beyond-photo">
+        <img src="images/about-life-3.jpg"
+             alt="Everyday inspiration">
+        <figcaption>EVERYDAY MOMENTS</figcaption>
+      </figure>
+
+    </div>
+
+  </section>
+
+
+  <!-- SECTION 05: WHAT'S NEXT -->
+
+  <section class="about-next">
+
+    <span class="about-kicker">04 / THE NEXT CHAPTER</span>
+
+    <h2>Still learning.<br>
+      <em>Still exploring.</em>
+    </h2>
+
+    <p>
+      I'm interested in opportunities where
+      analytical thinking, technology, and
+      business meet. As I continue developing
+      my skills, I'm looking forward to
+      applying what I've learned to real
+      problems, collaborating with different
+      teams, and discovering where I can make
+      the greatest contribution.
+    </p>
+
+    <a href="contact.html" class="about-contact-link">
+      Let's connect <span>↗</span>
+    </a>
+
+  </section>
+
+</div>
+```

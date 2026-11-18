@@ -1,0 +1,28 @@
+
+```{=html}
+<div class="cv-container">
+
+  <div class="cv-viewer">
+    <object
+      data="files/Arailym_Duisengali_Resume.pdf"
+      type="application/pdf"
+      class="cv-pdf">
+      <p>
+        Your browser cannot display this PDF.
+        <a href="files/Arailym_Duisengali_Resume.pdf">
+          View Resume
+        </a>
+      </p>
+    </object>
+  </div>
+
+  <div class="cv-actions">
+    <a href="files/Arailym_Duisengali_Resume.pdf"
+       download="Arailym_Duisengali_Resume.pdf"
+       class="resume-btn">
+       ↓ Download Resume (PDF)
+    </a>
+  </div>
+
+</div>
+```

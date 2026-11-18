@@ -1,0 +1,97 @@
+
+---
+title: "Projects"
+page-layout: full
+toc: false
+---
+
+::: {.projects-page}
+
+::: {.projects-intro}
+## Selected Projects
+
+A collection of my recent work in data analytics, machine learning, and large-scale data processing. Each project reflects my approach to turning complex datasets into meaningful insights and practical solutions.
+:::
+
+::: {.portfolio-project}
+
+::: {.project-number}
+01 / DATA ANALYTICS
+:::
+
+### US Job Market & Salary Analytics
+
+**Exploring compensation patterns across industries and occupations**
+
+Analyzed a large-scale dataset of US job postings using PySpark and AWS EC2, focusing on salary distributions, employment types, industry classifications, and occupational trends.
+
+**What I worked on**
+
+- Cleaned and transformed large datasets using PySpark.
+- Analyzed salary differences across NAICS industries.
+- Calculated median salaries by ONET occupation.
+- Developed interactive visualizations using Plotly.
+- Investigated salary normalization and data quality issues.
+
+**Tools:** Python · PySpark · AWS EC2 · Plotly · SQL
+
+[View Project on GitHub](https://github.com/araikinn-jpg/688-f26-a1-m03-a-araikinn-jpg){.project-link}
+
+:::
+
+::: {.portfolio-project}
+
+::: {.project-number}
+02 / MACHINE LEARNING
+:::
+
+### Predictive Modeling: Student Yield Classification
+
+**Comparing Decision Trees and Random Forests**
+
+Developed classification models to predict high and low enrollment yield using institutional characteristics. Compared model performance to understand predictive accuracy, generalization, and overfitting.
+
+**What I worked on**
+
+- Prepared and split data into training and validation sets.
+- Converted enrollment yield into binary classes.
+- Trained Decision Tree and Random Forest classifiers.
+- Evaluated precision, recall, F1-score, and accuracy.
+- Interpreted decision trees and confusion matrices.
+
+**Results**
+
+- Decision Tree validation accuracy: **66.88%**
+- Random Forest validation accuracy: **72.67%**
+
+**Tools:** Python · Pandas · Scikit-learn · Matplotlib
+
+:::
+
+::: {.portfolio-project}
+
+::: {.project-number}
+03 / BIG DATA & SQL
+:::
+
+### Large-Scale US Job Market Analysis
+
+**Processing over 815,000 job postings with Apache Spark**
+
+Built an analytical workflow using a large US job postings dataset stored in Parquet format. Explored hiring activity, salaries, employers, remote opportunities, and regional labor-market trends.
+
+**What I worked on**
+
+- Processed **815,193 records** across 20 Parquet files.
+- Worked with structured datasets using Spark DataFrames.
+- Applied Spark SQL for analytical queries.
+- Analyzed compensation by occupation and metropolitan area.
+- Explored remote hiring patterns and employer demand.
+- Created data visualizations to communicate findings.
+
+**Tools:** Apache Spark · PySpark · Spark SQL · Python · AWS
+
+[View Project on GitHub](https://github.com/araikinn-jpg/688-f26-a1-m02-a-araikinn-jpg){.project-link}
+
+:::
+:::

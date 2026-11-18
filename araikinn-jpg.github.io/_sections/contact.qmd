@@ -1,0 +1,80 @@
+---
+title: "Contact"
+---
+
+```{=html}
+<div class="contact-shell">
+
+  <div class="contact-left">
+    <p class="contact-label"></p>
+
+    <h1 class="contact-title">Let’s <em>talk</em></h1>
+
+    <div class="contact-badge">
+      <span class="contact-badge-dot"></span>
+      Currently exploring new opportunities
+    </div>
+
+    <p class="contact-description">
+      I’m always open to conversations about internships, analytics projects,
+      collaboration, and opportunities where business, technology, and data come together.
+      Whether you’d like to connect professionally or simply reach out, I’d love to hear from you.
+    </p>
+
+    <form class="contact-form" action="#" method="post">
+      <input type="text" name="name" placeholder="Your name">
+      <input type="email" name="email" placeholder="Your email">
+      <textarea name="message" rows="3" placeholder="Your message..."></textarea>
+
+      <button type="submit" class="contact-submit">
+        SEND MESSAGE ↗
+      </button>
+    </form>
+  </div>
+
+  <div class="contact-right">
+    <div class="contact-card">
+      <div class="contact-card-label">EMAIL</div>
+      <div class="contact-card-row">
+        <a href="mailto:araikinn@bu.edu">araikinn@bu.edu</a>
+        <span class="contact-arrow">↗</span>
+      </div>
+    </div>
+
+    <div class="contact-card">
+      <div class="contact-card-label">LINKEDIN</div>
+      <div class="contact-card-row">
+        <a href="https://www.linkedin.com/in/arailym-duisengali-b28055252/" target="_blank">
+          linkedin.com/in/arailymduisengali28055252
+        </a>
+        <span class="contact-arrow">↗</span>
+      </div>
+    </div>
+
+    <div class="contact-card">
+      <div class="contact-card-label">GITHUB</div>
+      <div class="contact-card-row">
+        <a href="https://github.com/araikinn-jpg" target="_blank">
+          github.com/araikinn-jpg
+        </a>
+        <span class="contact-arrow">↗</span>
+      </div>
+    </div>
+
+    <div class="contact-card">
+      <div class="contact-card-label">LOCATION</div>
+      <div class="contact-card-row no-link">
+        <span>Boston, Massachusetts</span>
+      </div>
+    </div>
+
+    <div class="contact-card">
+      <div class="contact-card-label">FOCUS</div>
+      <div class="contact-card-row no-link">
+        <span>Business Analytics, Data Projects, and Internship Opportunities</span>
+      </div>
+    </div>
+  </div>
+
+</div>
+```

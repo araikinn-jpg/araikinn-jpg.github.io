@@ -1,20 +1,24 @@
 project:
   type: website
+  resources:
+  - files/*.pdf
 
 website:
-  title: "Arailym Duisengali"
   navbar:
+    pinned: true
+    title: "Arailym Duisengali"
     right:
-      - text: Home
+      - text: "Home"
         href: index.qmd
-      - text: About Me
-        href: about.qmd
-      - text: Projects
-        href: projects.qmd
-      - text: CV
-        href: cv.qmd
-      - text: Contact
-        href: contact.qmd
+      - text: "About Me"
+        href: index.qmd#about
+      - text: "Projects"
+        href: index.qmd#projects
+      - text: "CV"
+        href: index.qmd#cv
+      - text: "Contact"
+        href: index.qmd#contact
+
 
 
 format:

@@ -16,11 +16,11 @@ page-layout: full
 
 :::
 
-::: {.column width="52%" .hero-content}
+::: {.column width="50%" .hero-content}
 
-<span class="eyebrow">BOSTON, MA &nbsp; / &nbsp; BUSINESS ANALYTICS</span>
+<span class="eyebrow">BOSTON, MA &nbsp; / &nbsp; BUSINESS ANALYST</span>
 
-# Hi, I’m Arailym.
+# Hi, I’m Arai.
 
 <div class="hero-description">
 
@@ -39,5 +39,40 @@ I’m interested in turning data into meaningful insights and helping businesses
 </div>
 
 :::
+
+:::
+
+<!-- ABOUT ME -->
+
+::: {#about .site-section}
+
+{{< include _sections/about.qmd >}}
+
+:::
+
+
+<!-- PROJECTS -->
+
+::: {#projects .site-section}
+
+{{< include _sections/projects.qmd >}}
+
+:::
+
+
+<!-- CV -->
+
+::: {#cv .site-section}
+
+{{< include _sections/cv.qmd >}}
+
+:::
+
+
+<!-- CONTACT -->
+
+::: {#contact .site-section}
+
+{{< include _sections/contact.qmd >}}
 
 :::
