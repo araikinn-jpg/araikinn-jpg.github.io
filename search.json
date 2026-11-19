@@ -7,45 +7,17 @@
     "text": "Markdown works\nThis is a normal paragraph.\n\n\n\nA test image"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "A LITTLE ABOUT ME\n\n\n\nI’m a Master’s student in Applied Business Analytics at Boston University with a background in project management and a growing focus on data-driven decision-making.\nI’m passionate about using analytics to understand business performance, uncover insights, and help organizations make smarter decisions."
-  },
-  {
-    "objectID": "about.html#professional-background",
-    "href": "about.html#professional-background",
-    "title": "About Me",
-    "section": "Professional Background",
-    "text": "Professional Background\nCurrently, I’m pursuing my master’s in Applied Business Analytics at Boston University. Previously, I worked in project management at SDU University in Kazakhstan, coordinating teams, managing documentation, and supporting process improvements. These experiences shaped my interest in how data and strategy come together to create meaningful business outcomes.\n\n\n\n↗\nExperience\nProject coordination, team collaboration, documentation management, and process improvement.\n\n\n\n◇\nEducation\nM.S. in Applied Business Analytics at Boston University.\nB.S. in Mathematical and Computer Modeling at SDU University, Kazakhstan.\n\n\n\n◎\nFocus\nData analysis, visualization, and informed decision-making."
-  },
-  {
-    "objectID": "about.html#turning-questions-into-insights",
-    "href": "about.html#turning-questions-into-insights",
-    "title": "About Me",
-    "section": "Turning Questions Into Insights",
-    "text": "Turning Questions Into Insights\nWhat interests me most about analytics is the connection between numbers and real business questions. I enjoy exploring a problem, identifying patterns, and figuring out what the results can tell us.\nFor me, analysis becomes valuable when it explains what is happening, why it matters, and what could be done next.\nMy project management experience has shaped how I approach analytical work. I value structure, attention to detail, and clear communication while keeping the bigger business objective in mind."
-  },
-  {
-    "objectID": "about.html#curious-about-the-world-too",
-    "href": "about.html#curious-about-the-world-too",
-    "title": "About Me",
-    "section": "Curious About the World, Too",
-    "text": "Curious About the World, Too\nMy curiosity extends beyond data and business. I love exploring new cities, discovering local cafés, noticing interesting architecture, and experiencing different cultures. Traveling gives me a chance to step outside my usual routine and see familiar things from a different perspective.\nMy curiosity about the world has helped broaden my horizons and inspired my journey into international education and career development.\n\n\nTravel & new cities\nPeople & culture\nCafés & architecture"
-  },
-  {
-    "objectID": "about.html#what-im-exploring-next",
-    "href": "about.html#what-im-exploring-next",
-    "title": "About Me",
-    "section": "What I’m Exploring Next",
-    "text": "What I’m Exploring Next\nI’m continuing to build my skills in Python, SQL, data visualization, and business intelligence while applying analytical methods to real business problems.\nI want to bring together my project coordination experience and analytical training to contribute to projects where data and business strategy meet."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Arailym Duisengali",
+    "title": "Contact",
     "section": "",
-    "text": "BOSTON, MA   /   BUSINESS ANALYTICS\n\nHi, I’m Arailym.\n\nI’m a Master’s student in Applied Business Analytics at Boston University.\nI’m interested in turning data into meaningful insights and helping businesses make better decisions.\n\n\nLets connect!\nLinkedIn   /   GitHub   /   Email"
+    "text": "BOSTON, MA   /   BUSINESS ANALYST\n\n\n\nI’m a Master’s student in Applied Business Analytics at Boston University.\nI’m interested in turning data into meaningful insights and helping businesses make better decisions.\n\n\n\nLinkedIn   /   GitHub   /   Email"
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "Contact",
+    "section": "Selected Projects",
+    "text": "Selected Projects\nA collection of my recent work in data analytics, machine learning, and large-scale data processing. Each project reflects my approach to turning complex datasets into meaningful insights and practical solutions."
   }
 ]
